@@ -1,0 +1,51 @@
+body{
+    background:linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+#submit{
+    
+    margin-bottom:30px;
+    margin-left:40px;
+    margin-right: 40px;
+}
+li{
+    display: inline;
+}
+.head
+{   
+    margin-top: -39px;
+    width: 1920px;
+    background-color: black;
+    height: 120px;
+    font-size:40px;  
+    left: -10px; 
+}
+a
+{
+    border-style: solid;
+    color:red;
+    margin-top: 120px;
+}
+#home
+{
+  margin-left: 300px;
+  margin-right: 50px;  
+ 
+ 
+}
+#courses
+{
+  margin-left: 50px;
+  margin-right: 50px; 
+ 
+}
+#contact
+{
+  margin-left: 50px;
+  margin-right: 50px;  
+  
+}
+#logo
+{
+    float:right;
+    float:top;
+}

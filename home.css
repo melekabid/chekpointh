@@ -1,0 +1,60 @@
+body{
+    background:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%)
+    
+}
+#photo{
+    margin-bottom: 100px;
+    margin-left: 500px;
+    margin-right: 300px;
+}
+li{
+    display: inline;
+    
+}
+.head
+{   
+    margin-top: -39px;
+    width: 1920px;
+    background-color: black;
+    height: 70px;
+    font-size:40px;  
+    left: -10px;
+   
+}
+a{
+    border-style: solid;
+    color:red;
+    margin-top: 70px;
+}
+#home
+{
+  margin-left: 300px;
+  margin-right: 50px;  
+  
+ 
+}
+#courses
+{
+  margin-left: 50px;
+  margin-right: 50px; 
+ 
+}
+#contact
+{
+  margin-left: 50px;
+  margin-right: 50px;  
+  
+}
+#logo
+{
+    float:right;
+    float:top;
+}
+#mel
+{
+  display: none;
+}
+#none1{
+  display:none;
+  
+}
